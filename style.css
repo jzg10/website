@@ -36,6 +36,24 @@ body {
     text-decoration: underline;
 }
 
+.who {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.07);
+    padding: 24px 32px;
+}
+
+.who h2 {
+    color: #145da0;
+    font-size: 1.6rem;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3eaf2;
+    padding-bottom: 6px;
+}
+
+
 .section {
     margin-top: 32px;
     margin-bottom: 32px;
