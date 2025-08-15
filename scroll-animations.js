@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(section);
     });
     
-    // Add smooth scrolling for any anchor links (bonus feature)
+    // Add smooth scrolling for any anchor links 
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             e.preventDefault();
